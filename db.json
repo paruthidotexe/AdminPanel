@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "suthakar",
+      "email" : "suthakar@gmail.com",
+      "phone" : "1234554321",
+      "chips" : "2000",
+      "cash" : "10000",
+      "status" : "Active"
+    },
+    {
+      "id": 2,
+      "username": "bbbbbb",
+      "email" : "bbbbb@gmail.com",
+      "phone" : "555554321",
+      "chips" : "20",
+      "cash" : "100",
+      "status" : "Active"
+    },
+    {
+      "id": 3,
+      "username": "cccccc",
+      "email" : "cccccc@gmail.com",
+      "phone" : "33333333",
+      "chips" : "300",
+      "cash" : "300",
+      "status" : "Deactive"
+    }
+  ]
+}
